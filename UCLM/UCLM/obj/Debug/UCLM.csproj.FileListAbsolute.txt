@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\UCLM\UCLM\bin\Debug\UCLM.exe.config
+C:\Users\user\source\repos\UCLM\UCLM\bin\Debug\UCLM.exe
+C:\Users\user\source\repos\UCLM\UCLM\bin\Debug\UCLM.pdb
+C:\Users\user\source\repos\UCLM\UCLM\obj\Debug\UCLM.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\UCLM\UCLM\obj\Debug\UCLM.Form1.resources
+C:\Users\user\source\repos\UCLM\UCLM\obj\Debug\UCLM.Properties.Resources.resources
+C:\Users\user\source\repos\UCLM\UCLM\obj\Debug\UCLM.csproj.GenerateResource.cache
+C:\Users\user\source\repos\UCLM\UCLM\obj\Debug\UCLM.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UCLM\UCLM\obj\Debug\UCLM.exe
+C:\Users\user\source\repos\UCLM\UCLM\obj\Debug\UCLM.pdb
+C:\Users\user\source\repos\UCLM\UCLM\obj\Debug\UCLM.exe.config
